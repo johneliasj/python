@@ -21,6 +21,7 @@ print("multiplicação", numero1 * numero2)
 print("potência" ,numero1 ** numero2)
 print("resto" ,numero1 % numero2)
 
+
 # OPERADORES LÓGICOS
 
 idade1 = 10
