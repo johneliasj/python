@@ -25,6 +25,7 @@ print("resto" ,numero1 % numero2)
 
 idade1 = 10
 idade2 = 11
+print(idade1, idade2)
 
 print("1 menor que 2", idade1 > idade2)
 print("1 menor ou igual que 2",idade1 <= idade2)
